@@ -1,11 +1,14 @@
 # 📠 POS Inventory App
 
-Looking for an inventory app that won't drive you up the wall? Look no further! Our Flutter-powered POS app is like a Swiss Army knife for your inventory needs. With easy product entry (including pics and QR codes!), lightning-fast search, and customer management features that would make even the most organized shop owner drool, you'll wonder how you ever managed without it. And best of all, our app uses Hive as the database, so it's as fast and efficient as a cheetah on Red Bull. Say goodbye to inventory headaches and hello to peace of mind with our amazing app!"
+Looking for an inventory app that won't drive you up the wall? Look no further! 
+Our Flutter-powered POS app is like a Swiss Army knife for your inventory needs. With easy product entry (including pics and QR codes!), lightning-fast search, and customer management features that would make even the most organized shop owner drool, you'll wonder how you ever managed without it.
+ And best of all, our app uses Hive as the database, so it's as fast and efficient as a cheetah on Red Bull.
+ Say goodbye to inventory headaches and hello to peace of mind with our amazing app!"
 
  
 
 # ✨Features
- * **Add Product **
+ * **Add Product**
  * **Add Product Image**
  * **Add Product Barcode**
  * **Edit Product**
